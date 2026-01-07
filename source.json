@@ -6,7 +6,9 @@
       "name": "YouTubePlus",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "YTLite",
-      "localizedDescription": "Enhanced YouTube experience",
+      "localizedDescription": {
+        "en": "Enhanced YouTube experience"
+      },
       "iconURL": "https://raw.githubusercontent.com/staticlinks/YTLite/main/icon.png",
       "downloadURL": "https://github.com/staticlinks/YTLite/releases/latest/download/YouTubePlus.ipa"
     }
