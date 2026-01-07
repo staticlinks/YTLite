@@ -1,6 +1,6 @@
 {
   "name": "YTLite",
-  "identifier": "com.ytlite.source",
+  "identifier": "com.ytlite.source.v2",
   "apps": [
     {
       "name": "YouTubePlus",
