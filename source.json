@@ -6,7 +6,8 @@
       "name": "YouTubePlus",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "YTLite",
-      "downloadURL": "https://github.com/staticlinks/YTLite/releases/latest/download/YouTubePlus.ipa"
+      "iconURL": "https://raw.githubusercontent.com/myuser/YTLite/main/icon.png",
+      "downloadURL": "https://github.com/myuser/YTLite/releases/latest/download/YouTubePlus.ipa"
     }
   ]
 }
